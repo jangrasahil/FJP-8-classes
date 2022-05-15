@@ -2,6 +2,7 @@
 
 //array declaration
 // comment added
+// this is also a comment
 let arr = []
 arr = [1, 2, 3, 4, 'sahil jangra', 12.5, 'pepcoding']
 
