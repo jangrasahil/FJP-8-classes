@@ -1,1 +1,1 @@
-this data is to be wriiten via writefilesync methodnew content is updated via append
+this data is to be wriiten via writefilesync method
